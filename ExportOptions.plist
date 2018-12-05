@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileBitcode</key>
+	<true/>
+	<key>destination</key>
+	<string>export</string>
+	<key>manifest</key>
+	<dict>
+		<key>appURL</key>
+		<string>https://emsapp.redstone.com.cn:8448/ios/SalesPerformance.ipa</string>
+		<key>displayImageURL</key>
+		<string>https://www.example.com/image_57.png</string>
+		<key>fullSizeImageURL</key>
+		<string>https://www.example.com//image_512.png</string>
+	</dict>
+	<key>method</key>
+	<string>development</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.redstone.salessystem.enterprise</key>
+		<string>DEV_Enterprise_SalesPerformance</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>E04B49A9B27F7B29685ABAB7D52B4EAF07310F87</string>
+	<key>signingStyle</key>
+	<string>manual</string>
+	<key>stripSwiftSymbols</key>
+	<true/>
+	<key>teamID</key>
+	<string>FX53LFPDZ2</string>
+	<key>thinning</key>
+	<string>&lt;none&gt;</string>
+</dict>
+</plist>
