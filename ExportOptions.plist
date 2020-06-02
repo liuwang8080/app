@@ -9,7 +9,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://emsapp.redstone.com.cn:8448/ios/SalesPerformance.ipa</string>
+		<string>http://emsapp.redstone.com.cn:8080/ios/SalesPerformance.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://www.example.com/image_57.png</string>
 		<key>fullSizeImageURL</key>
